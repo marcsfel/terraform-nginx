@@ -1,0 +1,1 @@
+A simple project with Terraform for provisioning a EC2 + Nginx
